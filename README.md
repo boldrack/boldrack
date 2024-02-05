@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Software Engineer
 ----------------------------
 
-I've been coding for 5 years now.
+I've been coding for 12 years now.
 
 * 🌍  I'm based in Lagos, Nigeria.
 * 🖥️  See my portfolio at [boldrack.dev](http://boldrack.dev)
